@@ -1,0 +1,15 @@
+CREATE DATABASE IF NOT EXISTS bookdev;
+
+use bookdev;
+
+DROP TABLE IF EXIXSTS usuarios;
+
+create table usuarios(
+    id int auto_increment primary key,
+    nome VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    senha VARCHAR(255) NOT NULL,
+    criado_em TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    atualizado_em TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+    ativo TINYINT(1) NOT NULL DEFAULT 1,
+)ENGINE=INNODB
