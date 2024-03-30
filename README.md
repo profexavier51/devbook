@@ -5,7 +5,7 @@
 
 ## O que é Go?
 
-** Go, também conhecida como Golang, é uma linguagem de programação de código aberto desenvolvida pelo Google em 2009. Ela foi criada por Robert Griesemer, Rob Pike e Ken Thompson, com o objetivo de ser uma linguagem moderna, eficiente e fácil de usar. **
+**Go, também conhecida como Golang, é uma linguagem de programação de código aberto desenvolvida pelo Google em 2009. Ela foi criada por Robert Griesemer, Rob Pike e Ken Thompson, com o objetivo de ser uma linguagem moderna, eficiente e fácil de usar.**
 
 ## Características:
 
