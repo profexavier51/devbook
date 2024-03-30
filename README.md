@@ -36,3 +36,14 @@ Concorrente: Go possui suporte nativo para concorrência, o que permite que os d
 * Relativamente nova: Go é uma linguagem relativamente nova, o que significa que ainda não possui a mesma maturidade que outras linguagens mais antigas.<br>
 * Menos bibliotecas: Go possui um número menor de bibliotecas disponíveis em comparação com outras linguagens mais populares.<br>
 * Ecossistema em desenvolvimento: O ecossistema de Go ainda está em desenvolvimento, o que significa que algumas ferramentas e recursos podem não estar disponíveis ou ser tão completos quanto em outras linguagens.<br>
+
+# Recursos para aprender Go:
+
+* Site oficial: https://golang.org/
+* Documentação: https://golang.org/doc/
+* Tutoriais: https://golang.org/doc/tutorial/
+* Blog oficial: https://blog.golang.org/
+
+## Conclusão:
+
+**Go é uma linguagem de programação moderna, eficiente e fácil de usar. É ideal para o desenvolvimento de aplicações que exigem alto desempenho, escalabilidade e confiabilidade. Se você está buscando uma linguagem para aprender e desenvolver aplicações robustas, Go é uma ótima opção.**
